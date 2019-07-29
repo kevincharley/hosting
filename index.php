@@ -1,3 +1,3 @@
 <?php
-header('location:mark.html');
+header('location:boottable.html');
 ?>
